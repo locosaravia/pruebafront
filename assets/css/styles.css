@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(29, 29, 29);
+}
+
+header{
+    background-color: rgb(29, 29, 29);
+}
+
+
+nav{
+    text-align: right;
+    margin-right:5% ;
+    font-size: medium;
+    margin-bottom: 2%;
+}
+
+#tele{
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+
+#title{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+main{
+    background-color: rgb(29, 29, 29);
+}
+
+#title1{
+    margin-top: 2%;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+#cartelera{
+    margin-left: 10%;
+    width: 200px;
+    height: 400px;
+    text-align: start;
+}
+#cartelera1{
+    text-align: center;
+    margin-left: 5%;
+    width: 200px;
+    height: 400px;
+}
+
+#primera{
+    text-align: start;
+    margin-left: 15%;
+    color: white;
+}
+#demas1{
+
+    text-align: left;
+    margin-left: 10%;
+    color: white;
+}
+
+#demas2{
+
+    text-align: center;
+    margin-left: 10%;
+    color: white;
+}
+#demas3{
+
+    text-align: right;
+    margin-left: 10%;
+    color: white;
+}
+
+#demas4{
+
+    text-align: end;
+    margin-left: 10%;
+    color: white;
+}
