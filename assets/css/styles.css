@@ -50,34 +50,16 @@ main{
     height: 400px;
 }
 
-#primera{
-    text-align: start;
-    margin-left: 15%;
+#calificaciones{
     color: white;
-}
-#demas1{
-
-    text-align: left;
-    margin-left: 10%;
-    color: white;
-}
-
-#demas2{
-
     text-align: center;
-    margin-left: 10%;
-    color: white;
 }
-#demas3{
-
-    text-align: right;
-    margin-left: 10%;
+#casa{
+    margin: auto    ;
+    text-align: center;
     color: white;
-}
-
-#demas4{
-
-    text-align: end;
-    margin-left: 10%;
-    color: white;
+    font-size: medium;
+    border: 2px, white, solid;
+    size: 10px;
+    width: 170px;
 }
