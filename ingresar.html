@@ -7,6 +7,37 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div>
+        <form id="formulario">
+            <label>Nombre:</label>
+            <input type="text" placeholder="Ingresa nombre de la serie" id="nombre" name="nombre"/></br></br>
+            <label>Director:</label>
+            <input type="text" placeholder="Ingresa al director de la serie" id="director" name="director"/></br></br>
+            <label>Año:</label>
+            <input type="date" placeholder="Ingresa Año en el que se estrena la serie" id="anio" name="anio"/></br></br>
+            <label>Valoracion:</label>
+            <input type="text" placeholder="Ingresa valoracion de la serie" id="valoracion" name="valoracion"/></br></br>
+            <label>Genero:</label>
+            <select id="genero" name="genero">
+                <option>comedia</option>
+                <option>drama</option>
+                <option>accion</option>
+                <option>suspenso</option>
+                <option>miseterio</option>
+                <option>terror</option>
+                <option>romance</option>
+                <option>ficcion</option>
+                <option>fantasia</option>
+            </select> </br></br>
+            <label>episodios</label>
+            <input type="text" placeholder=" ingresa la cantidad de episodios" id="episodio" name="Episodio"></br></br>
+         <input type="checkbox" id="Edad" name="Edad"/>recomendaria esta serie a menores de edad?</br></br>
+            <label>da una opinion de la serie</label><br>
+         <textarea name="opinion" id="opinion"></textarea></br></br>
+            <button type="button" id="btnAgregar">ingresar</button>
+        
+        </form>
+    </div>
+    <script src="assets/script.js" type="module"></script>
 </body>
 </html>

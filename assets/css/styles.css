@@ -63,3 +63,29 @@ main{
     size: 10px;
     width: 170px;
 }
+
+#formulario{
+    text-align: center;
+    color: white;
+    border: 1px,white,solid;
+    width: 400px;
+    height: 470px;
+    margin: auto;
+    }
+#nombre{
+    margin-top: 5%;
+}
+
+#tabla,th,td{
+    border: 1px,white,solid;
+    color: white;
+}
+
+#contraste{
+    background-color: white;
+    color: black;
+}
+
+#footer{
+    color: rgb(20, 20, 20);
+}
